@@ -1,0 +1,66 @@
+# Author settings
+name: misulikanxue
+title: C++ 开发工程师
+address: 中国, 上海
+email: 
+github: misulikanxue
+gavatar: /assets/img/Skunk.png
+workHistory:
+- work3:
+  company: iiii
+  location: 中国，上海
+  title: C++ 开发工程师
+  started: 2015
+  duration: (2015.10 - Present)
+  description: 
+
+- work2:
+  company: iiii
+  location: 中国，上海
+  title: C++ 开发工程师
+  started: 2014
+  duration: (2014.8 - 2015.8)
+  description: 
+
+- work1:
+  company: iiiuu
+  location: 中国, 合肥
+  title: Linux 程序员
+  started: 2013
+  duration: (2013.6 - 2013.9)
+  description: 
+
+educationHistory:
+- education1:
+  organization: 
+  degree: 学士
+  major: 
+  started: 
+  duration: (2008.9 - 2012.7)
+  description: 自学 C/C++, Java, Linux,
+languages:
+- language1:
+  name: 中文
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Limit
+programmingSkills:
+- Java:
+  name: Java/Android
+  percentage: 90%
+- Bash:
+  name: Bash Shell
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 70%
+- PHP:
+  name: PHP
+  percentage: 30%
+- Python:
+  name: Python
+  percentage: 30%
+- Kotlin:
+  name: Kotlin
+  percentage: 70%
