@@ -8,11 +8,10 @@ excerpt_separator: "```"
 ---
 
 
->书中笔记：
->
+书中笔记：
+
+终点机
 
 
 > 1. h4.01标准：：DOCTYPES；<meta>标记；alt属性。
-
-
 > 2. 表单 at p612
