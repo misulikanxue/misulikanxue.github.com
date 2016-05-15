@@ -1,17 +1,21 @@
 ---
 layout: post_layout
-title: 第二篇
+title: 第一篇
 time: 2016年05月09日 星期一
 location: 江苏
 pulished: true
 excerpt_separator: "```"
 ---
 
+我的第一篇 github 博客, 本博客使用 [jekyll](http://jekyll.bootcss.com/) + [bootstrap](http://v3.bootcss.com) 搭建!
 
-书中笔记：
+感谢 [github](https://github.com) 提供的 Github Pages 功能!
 
-终点机
+此博客布局参考了 [Monkey Snatch Banana](http://www.monkeysnatchbanana.com/) 博客
+
+个人页面应用了 [resumecard](http://ddbullfrog.github.io/resumecard/) 项目
 
 
-> 1. h4.01标准：：DOCTYPES；<meta>标记；alt属性。
-> 2. 表单 at p612
+```bash
+echo "你好, Github Pages!";
+```
